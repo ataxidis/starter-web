@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tasos an.taxides@gmail.com
 
 # THANKS
 
